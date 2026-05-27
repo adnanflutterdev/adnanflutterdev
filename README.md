@@ -1,29 +1,130 @@
-# 💫 About Me:
+# Hi 👋, I'm Mohammad Adnan
 
-I am a Flutter-focused software developer with a strong emphasis on building scalable, user-friendly mobile applications and reusable UI components. I have hands-on experience in developing modern mobile apps using Flutter, along with a solid understanding of clean architecture, state management, and responsive design principles.
+### Flutter Developer | Firebase | Riverpod | Clean Architecture
 
-I actively work on creating and maintaining Flutter packages, including custom UI libraries such as progress indicators and loading components, aimed at improving developer productivity and enhancing user experience. These contributions reflect my focus on writing reusable, modular, and maintainable code.
-
-In addition to package development, I have experience building full-fledged applications integrated with backend services like Firebase, handling features such as authentication, real-time data, and media interactions. My projects demonstrate familiarity with modern development practices, including Riverpod for state management, asynchronous programming, and performance optimization.
-
-* Passionate about Flutter and cross-platform development
-* Focused on clean UI/UX and smooth user interactions
-* Interested in open-source contributions and reusable components
-* Continuously improving through real-world project development
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=adnanflutterdev&label=Profile%20views&color=0e75b6&style=flat" alt="adnanflutterdev" />
+</p>
 
 ---
 
-## 🌐 Socials:
+## 🚀 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammad-adnan-linked-in)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:mohammadadnanflutterdev@gmail.com)
+- 💙 Passionate Flutter Developer focused on building scalable mobile applications
+- 📱 Experienced in Flutter, Firebase, Riverpod, REST APIs, and Clean Architecture
+- 🔥 Built real-time apps, social media apps, music streaming apps, and reusable Flutter packages
+- 🌱 Currently learning advanced Flutter architecture and performance optimization
+- 🎯 Interested in building modern and performant mobile experiences
 
 ---
 
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic\&logo=dart\&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic\&logo=Flutter\&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic\&logo=firebase\&logoColor=ffcd34)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic\&logo=figma\&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic\&logo=netlify\&logoColor=#00C7B7)
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### ⚡ State Management
+![Riverpod](https://img.shields.io/badge/Riverpod-6C63FF?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge)
+
+### 🔥 Backend & APIs
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+
+### 🧠 Architecture & Tools
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0F172A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 HeyBuddy
+Real-time social media application built with Flutter and Firebase.
+
+### Features
+- Authentication
+- Real-time Chat
+- Friend System
+- Photo/Video Sharing
+- Responsive UI
+- Riverpod State Management
+
+🔗 Repository:
+https://github.com/adnanflutterdev/HeyBuddy
+
+---
+
+## 🎵 Musify
+Music streaming application with online playback and playlists.
+
+### Features
+- Audio Streaming
+- Playlists
+- Song Upload
+- Firebase Integration
+- Background Playback
+
+🔗 Repository:
+https://github.com/adnanflutterdev/Musify
+
+---
+
+## 📦 my_progress_bar
+Reusable Flutter package for customizable progress indicators and sliders.
+
+🔗 Package:
+https://pub.dev/packages/my_progress_bar
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adnanflutterdev&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adnanflutterdev&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanflutterdev&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/adnanflutterdev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mohammad-adnan-linked-in" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohammadadnanflutterdev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://mohammad-adnan-portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "First, solve the problem. Then, write the code."
+
+---
+
+⭐ From [adnanflutterdev](https://github.com/adnanflutterdev)
